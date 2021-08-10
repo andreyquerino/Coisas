@@ -1,7 +1,4 @@
 // @AndreyQuerino
-// Compilação linux g++/i686-w64-mingw32-g++ <filename>.cpp -o <filname>.exe -lws2_32 -s -ffunction-sections -fdata-sections -Wno-write-strings -fno-exceptions -fmerge-all-constants -static-libstdc++ -static-libgcc
-// Compilação windows g++ -std=c++11 a.cpp -o a.exe -s -lws2_32 -Wno-write-strings -fno-exceptions -fmerge-all-constants -static-libstdc++ -static-libgcc
-// Mensagem de boas vindas
 
 #include <stdio.h>
 #include <windows.h>
