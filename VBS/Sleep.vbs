@@ -3,4 +3,4 @@
 Dim wshShell
 Set wshShell = CreateObject("WScript.Shell")
 WScript.Sleep(600000) '10 minutos em milisegundos.
-wshShell.Run("calc.exe") 'Program a ser executado.
+wshShell.Run("calc.exe") 'Programa a ser executado.
