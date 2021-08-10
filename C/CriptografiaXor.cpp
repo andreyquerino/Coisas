@@ -19,8 +19,7 @@ int main() {
     char Run[] = "www.github.com/andreyquerino"; //Texto
     printf("Encriptado: "); 
     Decrypter(Run); 
-    printf("\n"); 
-    printf("Decripitado: "); 
+    printf("\nDecripitado: "); 
     Decrypter(Run);
 }
 
