@@ -1,6 +1,5 @@
-##Author : Paranoid Ninja
-##Email  : paranoidninja@protonmail.com
-##Descr  : Run file test.bat as admin. This script is an alternative to sudo, but for Windows
+##Author : AndreyQuerino
+##Descr  : Execute o arquivo test.bat como administrador. Este script é uma alternativa ao sudo, mas para Windows 
 
 $secpasswd = ConvertTo-SecureString "<EnterPasswordHere>" -AsPlainText -Force
 $mycreds = New-Object System.Management.Automation.PSCredential ("<EnterUsernameHere>",$secpasswd)
