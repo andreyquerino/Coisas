@@ -12,3 +12,20 @@ C16D-4E68-F7FF-4205-A131-D796-8361-DD8E
 Códigos de Registro para MAC:
 P5LD-6YJE-05CF-E18C-1963-C6F3-PP8A-MIKE
 AXJQ-KQWG-3B6D-998B-ACC5-3CD4-EADD-MIKE
+
+\033[22;30m - black
+\033[22;31m - red
+\033[22;32m - green
+\033[22;33m - brown
+\033[22;34m - blue
+\033[22;35m - magenta
+\033[22;36m - cyan
+\033[22;37m - gray
+\033[01;30m - dark gray
+\033[01;31m - light red
+\033[01;32m - light green
+\033[01;33m - yellow
+\033[01;34m - light blue
+\033[01;35m - light magenta
+\033[01;36m - light cyan
+\033[01;37m - white
